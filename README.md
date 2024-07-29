@@ -168,7 +168,8 @@
 
 4) Ders Listesi
 
-   ![image](https://github.com/user-attachments/assets/5decbd7a-cee3-42dc-8b13-81e772aab78f)
+  ![Uploading image.png…]()
+
 
 5) Öğretim Görevlisi İşlemleri
 
