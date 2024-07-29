@@ -26,7 +26,7 @@
 
 
 
-## Kullanıcı Paneli: Kullanıcı Paneli 5 bölümden oluşmaktadır; Anasayfa, hakkımızda, bölüm koordinatörlerimiz, iletişim, giriş. Panelden birkaç fotoğrafa bakalım.
+### Kullanıcı Paneli: Kullanıcı Paneli 5 bölümden oluşmaktadır; Anasayfa, hakkımızda, bölüm koordinatörlerimiz, iletişim, giriş. Panelden birkaç fotoğrafa bakalım.
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-## Bölüm Koordinatörleri Paneli:
+### Bölüm Koordinatörleri Paneli:
 
 *Dashboard
 ![image](https://github.com/user-attachments/assets/5869c9b1-dca3-4128-9beb-c24a27841526)
@@ -96,6 +96,33 @@
 ![image](https://github.com/user-attachments/assets/e2455f6e-5041-4460-b022-8ea83ecb2292)
 
 
+
+
+
+
+### Öğretim Görevlisi Paneli
+
+*Dashboard:
+
+![image](https://github.com/user-attachments/assets/29f746c5-7ae8-434e-88c4-458964429d4d)
+
+*Kullanıcı adı ve görseli:
+![image](https://github.com/user-attachments/assets/7aee21ff-e843-48ba-b630-e530080dd031)
+
+*Döküman İşlemleri:
+![image](https://github.com/user-attachments/assets/e4c028d9-6c61-4bba-a6b5-82ca2c3e6e37)
+
+![image](https://github.com/user-attachments/assets/ea865717-7e08-4f15-b5ab-8cc289660098)
+
+*Tablo İşlemleri
+
+![image](https://github.com/user-attachments/assets/ad59a85b-8e2c-4a9e-917c-76ef531f0de6)
+
+![image](https://github.com/user-attachments/assets/112ba3aa-edc9-49ad-8dbe-ba6def2f3010)
+
+![image](https://github.com/user-attachments/assets/2df7bbdb-069d-446e-83bd-3c7ee375cbc8)
+
+![image](https://github.com/user-attachments/assets/d4273724-5276-47c2-98d5-0e5a23f923d6)
 
 
 
