@@ -34,13 +34,13 @@
 1) Hakkımızda
 ![image](https://github.com/user-attachments/assets/c4a28d27-a832-4998-a004-c44dbe25d4f3)
 
-*Bölüm koordinatörlerimiz
+2) Bölüm koordinatörlerimiz
 ![image](https://github.com/user-attachments/assets/d3f31902-4ed2-4bcc-a2c9-eac12f2c2de6)
 
-*İletişim
+3) İletişim
 ![image](https://github.com/user-attachments/assets/a9def14a-5110-4903-a424-2bbc966c70d9)
 
-*Giriş Yap
+4) Giriş Yap
 ![image](https://github.com/user-attachments/assets/4d2ae5bc-a2e1-4b55-827c-dcfb77a1d80f)
 
 
