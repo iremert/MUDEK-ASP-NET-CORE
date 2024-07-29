@@ -1,4 +1,4 @@
-# MHRS-ASP-NET-CORE 
+# Müdek-ASP-NET-CORE 
 - Projem 300 mb dan fazla olduğu için yüklenmedi
 
 
