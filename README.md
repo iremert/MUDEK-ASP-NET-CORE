@@ -31,7 +31,7 @@
 
 
 
-*Hakkımızda
+1) Hakkımızda
 ![image](https://github.com/user-attachments/assets/c4a28d27-a832-4998-a004-c44dbe25d4f3)
 
 *Bölüm koordinatörlerimiz
