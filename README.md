@@ -141,7 +141,7 @@
 
    ![image](https://github.com/user-attachments/assets/29dc7cef-8258-4d8f-b90b-ba3ad645cbaa)
 
-7)Öğrenci Not Hesaplama
+7) Öğrenci Not Hesaplama
 
 ![image](https://github.com/user-attachments/assets/15478ad5-4b87-4e0a-aad6-3c969945dec2)
 
@@ -168,8 +168,7 @@
 
 4) Ders Listesi
 
-  ![Uploading image.png…]()
-
+  ![image](https://github.com/user-attachments/assets/ea8bbf7d-1404-49ab-9948-8dc9d594fc2f)
 
 5) Öğretim Görevlisi İşlemleri
 
