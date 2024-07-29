@@ -1,4 +1,5 @@
-# MHRS-ASP-NET-CORE
+# MHRS-ASP-NET-CORE 
+- Projem 300 mb dan fazla olduğu için yüklenmedi
 
 
 ## Projemin Amacı ve Tanıtımı
