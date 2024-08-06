@@ -13,6 +13,7 @@
 
 
 
+
 ## Projemde Kullanılan Teknolojiler
 - Projemi geliştirirken  C# dilini , web tarafında çatı olarak Asp Net Core 6.0 kullandım.
 - Proje boyunca SOLİD prensiplerine sadık kalmaya çalıştım ve  çok katmanlı mimariyi benimseyerek, katmanları sorumluluklarına göre ayrıştırdım. Bu sayede daha temiz ve düzenli olmasını sağladı.
@@ -43,6 +44,11 @@
 
 4) Giriş Yap
 ![image](https://github.com/user-attachments/assets/4d2ae5bc-a2e1-4b55-827c-dcfb77a1d80f)
+
+
+
+
+
 
 
 
@@ -104,6 +110,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ### Öğretim Görevlisi Paneli
 
 1) Dashboard:
@@ -155,6 +170,17 @@
    ![image](https://github.com/user-attachments/assets/f912aa20-93a8-4850-9df9-c0296663fc62)
 
 
+
+
+
+
+
+
+
+
+
+
+
 ### Müdek Denetçisi Paneli
 
 1) Dashboard
@@ -186,6 +212,14 @@
 7) Ayarlar İşlemleri
 
    ![image](https://github.com/user-attachments/assets/57ffefe9-30cf-48f4-ac30-509bde488c6e)
+
+
+
+
+
+
+
+
 
 
 #### Error sayfası
